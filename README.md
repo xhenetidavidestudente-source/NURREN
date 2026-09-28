@@ -71,15 +71,17 @@ REQUISITI: FUNZIONALI, NON FUNZIONALI, DI DOMINIO.
 
      
 Offrire percorso offline della corsa — Utente  **NON FUNZIONALE**
+Deve essere intuitivo da usare **NON FUNZIONALE**
+deve essere veloce a cercare i percorsi ottimali **NON FUNZIONALE**
 
-
-Mostrare kcal bruciate dopo una corsa — Utente, Sistema NURREN **FUNZIONALE**
-Avvisare quando la frequenza supera una soglia — Utente, Sistema NURREN, Smartwatch/Sensore cardio **FUNZIONALE**
-Promemoria della corsa quotidiana e durata — Utente, Sistema NURREN  **FUNZIONALE**
-Versione base: mostrare kcal bruciate e km percorsi — Utente, Sistema NURREN **FUNZIONALE**
-3 token iniziali per provare le funzionalità — Utente, Sistema NURREN **FUNZIONALE**
-Offrire percorsi alternativi in caso di problemi — Utente, Sistema NURREN, Servizio mappe **FUNZIONALE**
-Monitorare la frequenza cardiaca — Utente, Sistema NURREN, Smartwatch/Sensore cardio **FUNZIONALE**
+login e sing up **FUNZIONALE** || L'Utente, vuole loggarsi, per usare l'applicazione
+Mostrare kcal bruciate dopo una corsa — Utente, Sistema NURREN **FUNZIONALE** || L'applicazione, vuole comunicare le kcal all'utente, per mostrare le kcal bruciate all'utente
+Avvisare quando la frequenza supera una soglia — Utente, Sistema NURREN, Smartwatch/Sensore cardio **FUNZIONALE** || L'applicazione, vuole comunicare quando la frequenza cardiaca supera una certa soglia all'utente, per avvertirlo che dovrebbe fermarsi o rallentare
+Promemoria della corsa quotidiana e durata — Utente, Sistema NURREN  **FUNZIONALE** || L'applicazione, vuole ricordare all'utente, di fare la sua corsa
+Versione base: mostrare kcal bruciate e km percorsi — Utente, Sistema NURREN **FUNZIONALE** || 
+3 token iniziali per provare le funzionalità — Utente, Sistema NURREN **FUNZIONALE** || L'applicazione, fornisce all'utente, 3 possibilità di testare/provare tutte le funzionalità dell'appicazione
+Offrire percorsi alternativi in caso di problemi — Utente, Sistema NURREN, Servizio mappe **FUNZIONALE** || L'applicazione, Offre percorsi alternativi, per continuare la corsa anche se ci sono dei problemi
+Monitorare la frequenza cardiaca — Utente, Sistema NURREN, Smartwatch/Sensore cardio **FUNZIONALE** || 
 Informare su passo e velocità — Utente, Sistema NURREN, GPS **FUNZIONALE**
 Inserire filtri per creare percorsi personalizzati — Utente, Sistema NURREN **FUNZIONALE**
 Contare le corse consecutive (streak) — Utente, Sistema NURREN **FUNZIONALE**
@@ -95,5 +97,6 @@ Informazioni sui dolori legati alla corsa — Utente, Sistema NURREN **FUNZIONAL
 
 
 Avviare un percorso pubblicato solo se ci si trova nello stesso luogo — Utente, Creatore del percorso, Sistema NURREN, GPS **DI DOMINIO**
+
 
 
