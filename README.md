@@ -71,10 +71,10 @@ REQUISITI: FUNZIONALI, NON FUNZIONALI, DI DOMINIO.
 
      
 Offrire percorso offline della corsa — Utente  **NON FUNZIONALE**
-Mostrare kcal bruciate dopo una corsa — Utente, Sistema NURREN **NON FUNZIONALE**
-Avvisare quando la frequenza supera una soglia — Utente, Sistema NURREN, Smartwatch/Sensore cardio **NON FUNZIONALE**
 
 
+Mostrare kcal bruciate dopo una corsa — Utente, Sistema NURREN **FUNZIONALE**
+Avvisare quando la frequenza supera una soglia — Utente, Sistema NURREN, Smartwatch/Sensore cardio **FUNZIONALE**
 Promemoria della corsa quotidiana e durata — Utente, Sistema NURREN  **FUNZIONALE**
 Versione base: mostrare kcal bruciate e km percorsi — Utente, Sistema NURREN **FUNZIONALE**
 3 token iniziali per provare le funzionalità — Utente, Sistema NURREN **FUNZIONALE**
@@ -89,11 +89,11 @@ Aggiornare la classifica giornaliera — Utente, Persone invitate, Sistema NURRE
 Decidere la durata del campionato — Utente, Persone invitate, Sistema NURREN **FUNZIONALE**
 Funzione audio che informa a ogni km — Utente, Sistema NURREN **FUNZIONALE**
 Pubblicare il proprio percorso — Utente, Altri utenti, Sistema NURREN **FUNZIONALE**
-Avviare un percorso pubblicato solo se ci si trova nello stesso luogo — Utente, Creatore del percorso, Sistema NURREN, GPS **FUNZIONALE**
+Creare una scheda di corsa provvisoria personalizzata — Utente, Sistema NURREN **FUNZIONALE**
 Sezione per neofiti su corsa e respirazione — Utente, Sistema NURREN **FUNZIONALE**
 Informazioni sui dolori legati alla corsa — Utente, Sistema NURREN **FUNZIONALE**
 
 
+Avviare un percorso pubblicato solo se ci si trova nello stesso luogo — Utente, Creatore del percorso, Sistema NURREN, GPS **DI DOMINIO**
 
-Creare una scheda di corsa provvisoria personalizzata — Utente, Sistema NURREN **DI DOMINIO**
 
