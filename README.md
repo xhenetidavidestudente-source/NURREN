@@ -1,22 +1,47 @@
 # NURREN
 
 FUNZIONALITA':
+     
+Offrire percorso offline della corsa — Utente
+Promemoria della corsa quotidiana e durata — Utente, Sistema NURREN
 
-offrire percorso offline della corsa     
-promemoria della tua corsa quotidiana e durata, 
-versione base offre solo quante kcal bruciate e quanti km hai fatto ma non altro/ oppure può darti un 3 token all’inizio per vedere cosa offre e come funziona 
-offrire percorsi alternativi in caso ci siano dei problemi nel percorso designato (es: strade non accessibili...), 
-quanto kcal hai bruciato dopo una corsa, 
-frequenza cardiaca durante la corsa (avverte nel caso la frequenza vada oltre una certa soglia),  
-informa anche a quale passo/velocità va l’utente 
-l’utente può inserire dei filtri che permettono l’app di creargli un  percorso secondo i suoi interessi 
-informa l’utente a quante corse senza pause ha fatto (streak) 
-puoi creare un campionato con amici che inviti (inviti da whatsapp, insta..) e che a fine di ogni giornata aggiornerà la classifica in base a quanti km si è fatto, e si può decidere quanto durerà questo campionato ad iniziare da 1 settimana fino a 1 anno
-funzione audio che ti informa a ogni km quanti km hai fatto
-si può postare il proprio percorso e si può avviare ma solo se l'utente si trova nello stesso posto del percorso cercato
-deve esserci una parte per i neofiti in cui insegna come correre come deve essere la respirazione,
-dirti cosa fare nel caso hai dei dolori legati alla corsa (dolori alle ginocchia o caviglie dovute alla corsa),
-darti una scheda di corsa provvisoria secondo le tue richieste (es: sono un neofita alle prime armi che vuole iniziare a correre per il proprio benessere, la scheda che l'applicazione dovrà offrire non dovrà essere troppo stancante e lunga)
+Versione base: mostrare kcal bruciate e km percorsi — Utente, Sistema NURREN
+
+3 token iniziali per provare le funzionalità — Utente, Sistema NURREN
+
+Offrire percorsi alternativi in caso di problemi — Utente, Sistema NURREN, Servizio mappe
+
+Mostrare kcal bruciate dopo una corsa — Utente, Sistema NURREN
+
+Monitorare la frequenza cardiaca — Utente, Sistema NURREN, Smartwatch/Sensore cardio
+
+Avvisare quando la frequenza supera una soglia — Utente, Sistema NURREN, Smartwatch/Sensore cardio
+
+Informare su passo e velocità — Utente, Sistema NURREN, GPS
+
+Inserire filtri per creare percorsi personalizzati — Utente, Sistema NURREN
+
+Contare le corse consecutive (streak) — Utente, Sistema NURREN
+
+Creare un campionato con amici — Utente, Persona invitata, Sistema NURREN
+
+Invitare amici tramite WhatsApp/Instagram — Utente, Persona invitata, WhatsApp/Instagram
+
+Aggiornare la classifica giornaliera — Utente, Persone invitate, Sistema NURREN
+
+Decidere la durata del campionato — Utente, Persone invitate, Sistema NURREN
+
+Funzione audio che informa a ogni km — Utente, Sistema NURREN
+
+Pubblicare il proprio percorso — Utente, Altri utenti, Sistema NURREN
+
+Avviare un percorso pubblicato solo se ci si trova nello stesso luogo — Utente, Creatore del percorso, Sistema NURREN, GPS
+
+Sezione per neofiti su corsa e respirazione — Utente, Sistema NURREN
+
+Informazioni sui dolori legati alla corsa — Utente, Sistema NURREN
+
+Creare una scheda di corsa provvisoria personalizzata — Utente, Sistema NURREN
 
 
 
