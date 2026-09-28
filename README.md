@@ -3,6 +3,7 @@
 FUNZIONALITA':
      
 Offrire percorso offline della corsa — Utente
+
 Promemoria della corsa quotidiana e durata — Utente, Sistema NURREN
 
 Versione base: mostrare kcal bruciate e km percorsi — Utente, Sistema NURREN
